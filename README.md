@@ -8,7 +8,7 @@ This project is to navigate the complete data science pipeline, from data collec
 ## Project Phases
 
 ### 1. Selecting a Dataset
-- This dataset contains 109 projects from the official headquarters of Khatam al-Anbia in 2019, making it a unique and comprehensive source of information. Khatam al-Anbiya Construction Headquarter is an Iranian engineering firm controlled by the Islamic Revolutionary Guard Corps (IRGC), and it is on the USA Specially Designated National (SDN) list, which focuses on entities involved in the proliferation of weapons of mass destruction and their delivery systems.
+- [This dataset](https://iranopendata.org/en/dataset/existing-contracts-khatam-al-anbiya-construction-headquarter/resource/02beb1c0-55fb-424e-a2e7-51dd0a47e82e) contains 109 projects from the official headquarters of Khatam al-Anbia in 2019, making it a unique and comprehensive source of information. Khatam al-Anbiya Construction Headquarter is an Iranian engineering firm controlled by the Islamic Revolutionary Guard Corps (IRGC), and it is on the USA Specially Designated National (SDN) list, which focuses on entities involved in the proliferation of weapons of mass destruction and their delivery systems.
 
 ### 2. Data Cleaning
 - Prepare the data for analysis, addressing missing values, outliers, and data types.
